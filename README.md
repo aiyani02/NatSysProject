@@ -3,9 +3,9 @@
 Group Name: __Fill your team name__. 
 
 Team Mates:
-1. __Fill name__ and __matric no__
-2. __Fill name__ and __matric no__
-3. __Fill name__ and __matric no__
+1. Aiyani bt Shafudin and 2113162
+2. Nazihah bt Shafudin and 2116990
+3. Auni Fatini bt Saniza and 2113244
 
 ## Rules
 1. You are allowed to have **3 group** members.
